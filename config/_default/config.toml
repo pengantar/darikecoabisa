@@ -1,4 +1,4 @@
-baseURL = "seputarkecoa.pages.dev"
+baseURL = "https://seputarkecoa.pages.dev"
 title = "Seputar Kecoa"
 theme = "zdoc"
 
